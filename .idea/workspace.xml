@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MonetkaFalshiva.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -21,6 +21,24 @@
                 <element signature="e#587#588#0" expanded="true" />
                 <element signature="e#650#651#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -113,11 +131,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/SortedPuzirkom.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ex3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MonetkaFalshiva.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ex.java" />
         <option value="$PROJECT_DIR$/src/main/java/3.1 3-ReverseChars.java" />
         <option value="$PROJECT_DIR$/src/main/java/3.1 3-ReverseChars.java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/1.2 ReverseString.java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MonetkaFalshiva.java" />
+        <option value="$PROJECT_DIR$/src/main/java/1.2 ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reverse.java" />
       </list>
     </option>
   </component>
@@ -174,7 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549749537736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549752231993" />
     <property name="last_opened_file_path" value="D:/Devel/JavaStarter" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -182,6 +203,10 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vitaliy\IdeaProjects\TaskToInterview\src\main\java" />
+      <recent name="C:\Users\Vitaliy\IdeaProjects\TaskToInterview\src\main" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -204,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
+  <component name="RunManager" selected="Application.Reverse">
     <configuration name="Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex" />
       <module name="TaskToInterview" />
@@ -212,15 +237,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3" />
+    <configuration name="MonetkaFalshiva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MonetkaFalshiva" />
       <module name="TaskToInterview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonetkaFalshiva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MonetkaFalshiva" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="TaskToInterview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.ReverseChars" />
         <item itemvalue="Application.MonetkaFalshiva" />
         <item itemvalue="Application.Ex" />
-        <item itemvalue="Application.Ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -272,8 +297,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19822006" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24514563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,8 +308,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" visible="true" weight="0.17511013" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49621785" weight="0.30718955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49621785" visible="true" weight="0.17511013" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49621785" weight="0.3061674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,6 +326,18 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ReverseString.java</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -437,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/1.2 ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -446,13 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -464,6 +495,20 @@
             <element signature="e#587#588#0" expanded="true" />
             <element signature="e#650#651#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
