@@ -9,11 +9,13 @@ public class NumberWordInString {
         //Вводим предложение в консоль
         System.out.println("Введите слова одной строкой через пробел");
         String input = sc.nextLine();
-        //Начальное количество слов равно 0
-        int count = 0;
+
+        int count = 0;   // сount - счётчик      //Начальное количество слов равно 0
+
         //Если ввели хотя бы одно слово, тогда считать, иначе конец программы
         if (input.length() != 0) {
             count++;
+
             //Проверяем каждый символ, не пробел ли это
             for (int i = 0; i < input.length(); i++) {
                 if (input.charAt(i) == ' ') {
